@@ -1,0 +1,4 @@
+change map
+remove 2024 in visualization
+add highlighting for selected state
+also add future pred dates to the heatmapx`
